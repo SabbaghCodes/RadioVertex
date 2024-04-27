@@ -19,7 +19,7 @@ Set the LLM path [here](minigpt_v2.yaml file path) at Line 14. ##$**<br>
 Download the pretrained model checkpoints.<br>
 <a href="https://drive.google.com/file/d/1-uwRLa3xrD2h15UbdS8-gznx8UDH2zNY/view?usp=sharing">Download</a><br>
 Set the path to the pretrained checkpoint in the evaluation config file <a href="https://github.com/RosolSharairh/RadioVertex/blob/main/eval_configs/minigptv2_eval.yaml">eval_configs/minigptv2_eval.yaml</a> at Line 8.<br>
-<a href="https://drive.google.com/file/d/11nAPjEok8eAGGEG1N2vXo3kBLCg0WgUk/view">Download</a>our pretrained model.</p>
+<a href="https://drive.google.com/file/d/11nAPjEok8eAGGEG1N2vXo3kBLCg0WgUk/view">Download</a> our pretrained model.</p>
 <h2 class="code-line" data-line-start=24 data-line-end=25 ><a id="Launching_Demo_Locally_24"></a>Launching Demo Locally</h2>
 <p class="has-line-data" data-line-start="25" data-line-end="26">Run:</p>
 <pre><code class="has-line-data" data-line-start="27" data-line-end="29" class="language-sh">python demo_v2.py --cfg-path <span class="hljs-built_in">eval</span>_configs/minigptv2_eval.yaml  --gpu-id <span class="hljs-number">0</span>
