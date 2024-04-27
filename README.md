@@ -1,15 +1,3 @@
-SERVICES
-DOCUMENTS
-RadioVertex.md
-Untitled Document.md
-PREVIEW AS 
-EXPORT AS 
-SAVE TO 
-IMPORT FROM 
-DOCUMENT NAME
-RadioVertex.md
-MARKDOWNPREVIEWToggle Mode
-  
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="RadioVertex_0"></a>RadioVertex</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_VQA_System_for_Neuroradiology_Brain_Tumors_and_Lung_Cancer_Screening_Using_MRI_and_CT_Scans__1"></a><em>VQA System for Neuroradiology, Brain Tumors, and Lung Cancer Screening Using MRI and CT Scans.</em></h2>
 <p class="has-line-data" data-line-start="2" data-line-end="3">RadioVertex is designed to assist radiologists by using AI to interpret MRI and CT scans, specifically for brain tumors and lung cancer. This AI-driven chatbot aims to provide real-time answers to clinical questions, improve diagnostic accuracy, and enhance the efficiency of medical imaging workflows. By integrating such technology, the goal is to reduce the heavy workload on radiologists, expedite the diagnostic process, and ultimately improve patient outcomes through earlier and more precise detection of critical health issues.</p>
