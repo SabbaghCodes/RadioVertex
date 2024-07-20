@@ -53,3 +53,4 @@ ckpt save path: “/path/to/save_checkpoint”</p>
 </ul>
 <h2 class="code-line" data-line-start=57 data-line-end=58 ><a id="Acknowledgement_57"></a>Acknowledgement</h2>
 <p class="has-line-data" data-line-start="58" data-line-end="59">Thanks to the creators of minigpt-v2 on their amazing model, check out their website <a href="https://minigpt-4.github.io/">here</a>.</p>
+Last updated: 20/07/2024
